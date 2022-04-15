@@ -1,0 +1,13 @@
+[build-system]
+build-backend = "poetry.core.masonry.api"
+requires = ["poetry-core>=1.0.0"]
+
+[tool]
+[tool.poetry]
+authors = ["varmchairDev <<>>"]
+description = ""
+name = "repl_python3_boilerplate-rock-paper-scissors-1"
+version = "0.1.0"
+[tool.poetry.dependencies]
+python = "^3.8"
+[tool.poetry.dev-dependencies]
